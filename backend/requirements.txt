@@ -1,0 +1,11 @@
+langchain
+unstructured
+openai
+chromadb
+Cython
+tiktoken
+flask
+pdf2image
+pdfminer.six
+opencv-python
+unstructured_pytesseract

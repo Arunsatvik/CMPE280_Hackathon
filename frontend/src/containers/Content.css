@@ -1,0 +1,28 @@
+/* CONTENT */
+
+.content {
+    position: fixed;
+    /* margin-left: 250px; */
+    top: var(--header-height);
+    left: var(--sidebar-width);
+    right: 0;
+    /* background: url(background.png) no-repeat; */
+    /* background-position: center; */
+    /* background-size: cover; */
+    height: 100vh;
+    transition: 0.5s;
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow-y: auto;
+}
+
+.content_container {
+    background-color: #fff;
+    margin: 10px;
+    width: auto;
+    height: auto;
+    padding: 1rem;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+}
